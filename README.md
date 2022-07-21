@@ -1,4 +1,4 @@
-# react-native-quick-sample
+# react-native-samsung-gallery
 This is clone of Samsung Default Gallery.
 
 
