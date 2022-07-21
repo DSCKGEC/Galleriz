@@ -7,7 +7,7 @@ This is clone of Samsung Default Gallery.
 ## Install and run on android
 ```
 npm install -g react-native-cli
-cd react-native-quick-sample
+cd react-native-samsung-gallery
 npm install
 react-native run-android
 ```
@@ -15,7 +15,7 @@ react-native run-android
 ## Install and run on ios
 ```
 npm install -g react-native-cli
-cd react-native-quick-sample
+cd react-native-samsung-gallery
 npm install
 react-native run-ios
 ```
