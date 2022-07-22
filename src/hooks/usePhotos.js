@@ -66,13 +66,11 @@ const usePhotos = () => {
         if (v) {
           CameraRoll.getPhotos({
             first: 2000,
-            
           })
             .then(r => {
               setPhotos(getThePhotoData(r.edges));
             })
             .catch(err => {
-              console.log('dipika');
               console.log(err);
               //Error Loading Images
             });
