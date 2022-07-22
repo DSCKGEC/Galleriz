@@ -1,5 +1,5 @@
-# react-native-samsung-gallery
-This is Gallery app which design is cloned from samsung default gallery.
+# react-native-gallery
+This is Gallery app which design is cloned from samsung default gallery app.
 
 
 ## Preview
@@ -24,14 +24,14 @@ This is Gallery app which design is cloned from samsung default gallery.
 
 ## Install and run on android
 ```
-cd react-native-samsung-gallery
+cd react-native-gallery
 npm install
 npx react-native run-android
 ```
 
 ## Install and run on ios
 ```
-cd react-native-samsung-gallery
+cd react-native-gallery
 npm install
 npx react-native run-ios
 ```
