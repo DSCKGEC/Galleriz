@@ -1,5 +1,5 @@
-# react-native-gallery
-This is Gallery app which design is cloned from samsung default gallery app.
+# Galleriz!
+In this project, we try to clone the gallery app that comes with Samsung smartphones and try to learn about the different modules and packages we use to build a gallery application.
 
 
 ## Preview
